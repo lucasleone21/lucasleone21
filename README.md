@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Leone</h1>
 <h3 align="center">A passionate Data Science developer from Brazil</h3>
+<h3 align="center">Computer Science student for UFMG</h3>
+
 
 - 🔭 I’m currently working on [Recommender System for musics](https://github.com/lucasleone21/Spotify-Recomender-System)
 
