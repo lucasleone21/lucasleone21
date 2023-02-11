@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science student for UFMG</h3>
 
 
-- 🔭 I’m currently working on [Recommender System for musics](https://github.com/lucasleone21/Spotify-Recomender-System)
+- 🔭 I’m currently working on [Recommender System for musics](https://github.com/lucasleone21/Spotify-Recomender-System) and [Deep Learning Music Popularity](https://https://github.com/lucasleone21/Introduction-to-DeepLearning)
 
 - 🌱 I’m currently learning **Recommender Systems, Machine Learning, Deep Learning, Artificial Intelligence**
 
