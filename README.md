@@ -9,6 +9,8 @@
 
 - 👯 I’m looking to collaborate on [Spotify Music Analysis](https://github.com/lucasleone21/Analyzing-Spotify-tracks)
 
+- 🎬 I have already finished [Movie Recommender System](https://github.com/lucasleone21/Movie-Recommender-System)
+
 - ⚡ Fun fact **I love dogs and video games**
 
 <h3 align="left">Connect with me:</h3>
